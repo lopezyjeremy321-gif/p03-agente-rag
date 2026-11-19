@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Peluquería Mirlo, sitio de demostración</title>
+<meta name="description" content="Demostración de un asistente con IA que responde con los documentos de una peluquería ficticia y cita su fuente.">
+<link rel="preload" href="fonts/Manrope-Variable.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#contenido">Saltar al contenido</a>
+<div class="demo-bar"><div class="wrap"><p>Sitio de demostración: el negocio, los precios y los datos son ficticios.</p></div></div>
+<main id="contenido">
+  <div class="wrap">
+    <div class="hero">
+      <div>
+        <h1>Peluquería Mirlo</h1>
+        <p>Corte, color y tratamientos en Ciudad Demo. Pregúntale al asistente por precios, horarios y políticas.</p>
+        <div class="actions">
+          <button type="button" class="btn btn-primary" id="abrir-chat">Preguntar al asistente</button>
+          <a class="btn btn-ghost" href="#precios">Ver precios</a>
+        </div>
+      </div>
+      <p class="hero-note">El asistente solo responde con los documentos del negocio y muestra de cuál sale cada dato. Si no lo encuentra, te lo dice.</p>
+    </div>
+    <section class="block" id="precios" aria-labelledby="h-precios">
+      <h2 id="h-precios">Precios</h2>
+      <table class="price-table">
+        <caption class="p03w-sr">Precios y duración de los servicios principales</caption>
+        <thead><tr><th scope="col">Servicio</th><th scope="col">Duración</th><th scope="col">Precio (COP)</th></tr></thead>
+        <tbody>
+          <tr><td>Corte de mujer</td><td>60 min</td><td>$45.000</td></tr>
+          <tr><td>Corte de hombre</td><td>35 min</td><td>$28.000</td></tr>
+          <tr><td>Tinte de raíz</td><td>90 min</td><td>$70.000</td></tr>
+          <tr><td>Tinte completo</td><td>120 min</td><td>$95.000</td></tr>
+          <tr><td>Keratina alisadora</td><td>150 min</td><td>$150.000</td></tr>
+          <tr><td>Corte de mujer más tinte de raíz</td><td>150 min</td><td>$105.000</td></tr>
+        </tbody>
+      </table>
+    </section>
+    <section class="block" id="horarios" aria-labelledby="h-horarios">
+      <h2 id="h-horarios">Horarios</h2>
+      <dl class="hours">
+        <dt>Lunes a viernes</dt><dd>9:00 a 19:00</dd>
+        <dt>Sábado</dt><dd>9:00 a 17:00</dd>
+        <dt>Domingo</dt><dd>Cerrado</dd>
+      </dl>
+    </section>
+  </div>
+</main>
+<footer class="foot"><div class="wrap"><p>Demostración técnica de un agente RAG. Direcciones y teléfonos ficticios.</p></div></footer>
+<script src="widget.js" data-tenant="mirlo" data-name="Peluquería Mirlo" data-api="" defer></script>
+<script src="page.js" defer></script>
+</body>
+</html>

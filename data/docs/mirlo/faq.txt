@@ -1,0 +1,19 @@
+Preguntas frecuentes - Peluquería Mirlo (DEMOSTRACIÓN, negocio ficticio)
+
+P: ¿Cuánto dura un corte?
+R: Un corte de mujer dura cerca de 60 minutos y uno de hombre cerca de 35 minutos.
+
+P: ¿Hay wifi y algo de tomar?
+R: Sí, el wifi es gratis y ofrecemos café o agua de cortesía mientras esperas.
+
+P: ¿Hacen servicio a domicilio?
+R: No. Todos los servicios son en el local, con una única excepción: el recogido de novia puede hacerse a domicilio dentro de un radio de 20 km, con un recargo de $120.000 COP.
+
+P: ¿Tienen programa de fidelidad?
+R: Sí. En la décima visita de corte, ese corte es gratis.
+
+P: ¿Qué productos usan?
+R: Usamos la línea propia Mirlo Botánica para lavado y tratamientos.
+
+P: ¿Puedo llevar una foto de referencia?
+R: Claro, la estilista revisa la referencia contigo antes de empezar.

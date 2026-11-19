@@ -1,0 +1,123 @@
+{
+ "model": "qwen/qwen3.8-27b",
+ "tokens_in": 6158,
+ "tokens_out": 450,
+ "items": [
+  {
+   "id": "R01",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R02",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R03",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R04",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R05",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R06",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R07",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R08",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R09",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R10",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R11",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R12",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R14",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R15",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "R16",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "T02",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "T03",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  },
+  {
+   "id": "T04",
+   "grounded": false,
+   "unsupported_claims": [
+    "$28.500 COP"
+   ],
+   "answers_question": true
+  },
+  {
+   "id": "I04",
+   "grounded": true,
+   "unsupported_claims": [],
+   "answers_question": true
+  }
+ ]
+}

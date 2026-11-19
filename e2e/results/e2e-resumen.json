@@ -1,0 +1,18 @@
+{
+ "preguntas_ok_en_navegador": "27/30",
+ "errores_de_consola": [],
+ "boton_reserva": "Reservar corte (enlace de demostración)",
+ "scroll_horizontal_movil": [
+  false,
+  false
+ ],
+ "objetivos_menores_44px_movil": [],
+ "fuente_input_px": 16,
+ "xss": {
+  "img_en_dom": 0,
+  "script_en_dom": 0,
+  "enlaces_en_respuesta": 0,
+  "dialogos": 0,
+  "texto_literal": true
+ }
+}

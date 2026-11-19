@@ -1,0 +1,13 @@
+mirlo faq.txt {'doc_id': 'faq', 'chunks': 7, 'pages': 1}
+mirlo horarios-contacto.pdf {'doc_id': 'horarios-contacto', 'chunks': 3, 'pages': 1}
+mirlo opiniones-clientes.pdf {'doc_id': 'opiniones-clientes', 'chunks': 2, 'pages': 1}
+mirlo politicas.pdf {'doc_id': 'politicas', 'chunks': 4, 'pages': 1}
+mirlo tarifas.pdf {'doc_id': 'tarifas', 'chunks': 4, 'pages': 2}
+aurelio horarios.pdf {'doc_id': 'horarios', 'chunks': 1, 'pages': 1}
+aurelio tarifas.pdf {'doc_id': 'tarifas', 'chunks': 1, 'pages': 1}
+tokens de dueño de prueba guardados en owner-tokens.local.json
+.................................
+----------------------------------------------------------------------
+Ran 33 tests in 11.990s
+
+OK
